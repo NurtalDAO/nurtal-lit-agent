@@ -1,5 +1,5 @@
-# nurtal-lit-agent
 AI agent for literature triage and summarization.
+
 # NurtalAgent-LIT
 
 Goal: Automate literature triage for biomedical research.
